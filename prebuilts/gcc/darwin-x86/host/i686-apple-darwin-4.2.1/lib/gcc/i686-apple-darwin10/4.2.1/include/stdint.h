@@ -1,0 +1,1 @@
+link ../../../../../include/gcc/darwin/4.2/stdint.h

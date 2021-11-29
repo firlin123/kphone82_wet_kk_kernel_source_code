@@ -1,0 +1,10 @@
+
+
+
+config RAON_REMOTE_CTRL
+	tristate "Remote IR Controller"
+	default y
+	help
+	  This enables support for Remote IR Controller
+
+
